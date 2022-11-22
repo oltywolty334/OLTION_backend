@@ -1,0 +1,14 @@
+{
+  "name": "sesh-7-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "oltion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
